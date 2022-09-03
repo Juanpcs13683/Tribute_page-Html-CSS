@@ -1,0 +1,39 @@
+#main{
+    background-color: silver;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+    align-items: center;
+}
+
+#img-div{
+    background-color: white;
+    width: 90%;
+    margin: auto;
+    border-radius: 2%;
+}
+
+#image{
+    max-width: 100%;
+    height: auto;
+    padding-top: 10px;
+    display: block;
+    margin: auto;
+}
+
+ .texto{
+    width: 70%;
+    text-align: justify;
+    margin: auto;
+ }
+
+ h2{
+    text-align: justify;
+    margin-bottom: -15px;
+ }
+
+ footer{
+    position: relative;
+    
+ }
